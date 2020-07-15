@@ -3,16 +3,32 @@
 // è palindroma
 
 // Senza funzione
+
+// <<Variabile da inserire>>
+
 // var parola = prompt("Inserisci una parola e scopri se è palindroma");
+
+// <<Scompongo la parola in singoli caratteri in un array>>
+
 // var parolaScomposta = [];
 // for (var i = 0; i < parola.length; i++) {
 //     parolaScomposta.push(parola[i]);
 // }
+
+// <<Creo array reverse e var parola reverse>>
+
 // var alorapScomposta = parolaScomposta.reverse();
 // var alorap = "";
+
+// <<Unisco i caratteri del array reverse
+// per creare parola reverse>>
+
 // for (var j = 0; j < alorapScomposta.length; j++) {
 //     alorap += alorapScomposta[j];
 // }
+
+// <<Verifica se palindromo o meno>>
+
 // if (alorap == parola) {
 //     alert("La parola è palindroma!")
 // } else {
